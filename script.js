@@ -3,4 +3,4 @@ let addText = function(text) {
     let simpleText = document.createTextNode(text);
     heading.appendChild(simpleText);
 }
-addText ('Hello word');
+addText ('Text here');

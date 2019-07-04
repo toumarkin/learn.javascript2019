@@ -1,0 +1,23 @@
+{
+  "name": "learn.javascript2019",
+  "version": "1.0.0",
+  "description": "My project for JavaScript course",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliya-toumarkin/learn.javascript2019.git"
+  },
+  "author": "Nataliya Toumarkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nataliya-toumarkin/learn.javascript2019/issues"
+  },
+  "homepage": "https://github.com/nataliya-toumarkin/learn.javascript2019#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.0.1"
+  }
+}
